@@ -44,3 +44,6 @@ rag-poc/
     llm_cache/                  cached quarterly LLM verdicts (backtest)
     backtest/                   backtest result CSVs
 ```
+
+
+<img width="3749" height="6166" alt="JSON Data Import Workflow-2026-06-29-132407" src="https://github.com/user-attachments/assets/1c717ff8-067d-4441-86fa-b8b987b70855" />
