@@ -1,0 +1,20 @@
+{
+  "regime": "Expansionary / Low Real Rate Environment",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "Normal upward sloping yield curve",
+    "Negative 10-year real interest rates",
+    "Elevated but falling VIX"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "2328dabf508c",
+    "5e068f4bde46",
+    "99ad6cdde172",
+    "0826c79434b2"
+  ],
+  "reasoning": "The US Treasury yield curve is upward sloping (1.64 pp), which signifies market expectations of future economic expansion [57205ed3e4b4]. This is strongly supported by the 10-year real interest rate being negative (-0.07%), which is associated with increased borrowing, higher liquidity, and expansionary GDP [2328dabf508c], as well as higher PE valuation multiples for equity indices [5e068f4bde46]. While the VIX is currently in an 'elevated' regime (23.4), it is trending downward, and the very low real rates relative to history should theoretically increase liquidity and reduce volatility in risk assets [99ad6cdde172, 0826c79434b2]. There is a conflict (signal disagreement) between the current 'elevated' state of the VIX and the 'bullish' signals from the yield curve and real rates, but the underlying macro drivers are expansionary."
+}

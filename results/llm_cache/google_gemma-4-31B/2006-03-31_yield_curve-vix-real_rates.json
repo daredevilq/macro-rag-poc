@@ -1,0 +1,21 @@
+{
+  "regime": "Contractionary Pressure / High Real Rates",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Flat yield curve",
+    "High 10y real interest rates (98th percentile)",
+    "Low VIX (2nd percentile)"
+  ],
+  "cited_rule_ids": [
+    "aad10797e50f",
+    "e0d011fb7082",
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8",
+    "3da3b2dc47c4"
+  ],
+  "reasoning": "The macro signals are conflicting. The US Treasury yield curve is currently flat (0.04 pp), which according to rules [aad10797e50f] and [e0d011fb7082] is associated with a transition from expansion to contraction or expectations of economic contraction, signaling a bearish outlook. This is strongly reinforced by the 10y real interest rate, which is at the 98th percentile (high relative to history); rules [a17543ceb763], [57731d675323], [a1a5b29af0a8], and [3da3b2dc47c4] state that high real rates decrease liquidity, reduce borrowing, and lead to contractionary GDP and lower equity valuations. However, these bearish signals conflict with the current state of the VIX, which is extremely low (2nd percentile), indicating a calm market. Because the fundamental drivers (real rates and yield curve) point toward contraction despite the current low volatility, the overall outlook for equities is bearish."
+}

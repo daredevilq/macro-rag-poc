@@ -1,0 +1,19 @@
+{
+  "regime": "Expansionary with emerging tightening",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "bearish",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Extremely low equity volatility (VIX)",
+    "Rising 10-year real interest rates"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "aad10797e50f",
+    "57731d675323",
+    "a1a5b29af0a8"
+  ],
+  "reasoning": "The yield curve is currently upward sloping (normal), which signifies market expectations of future economic expansion [57205ed3e4b4]. However, the yield curve is exhibiting a falling trend (flattening) over the 3m and 6m periods, which is associated with a transition from expansion to contraction [aad10797e50f]. Simultaneously, the 10-year real interest rate is rising, which is a bearish signal as higher real rates lead to decreased borrowing, lower liquidity, and contractionary GDP [57731d675323, a1a5b29af0a8]. While the VIX is currently very low (3rd percentile), indicating a calm market, the confluence of a flattening yield curve and rising real rates creates a conflict between current stability and leading bearish indicators."
+}

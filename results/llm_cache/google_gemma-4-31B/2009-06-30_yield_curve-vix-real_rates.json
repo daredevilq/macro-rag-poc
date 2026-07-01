@@ -1,0 +1,18 @@
+{
+  "regime": "Economic Expansion Transition",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mostly agree",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Steepening yield curve trend",
+    "Low historical real interest rates"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "99ad6cdde172"
+  ],
+  "reasoning": "The US Treasury yield curve is currently upward sloping (normal) and steepening (rising trend), which signifies market expectations of future economic expansion [57205ed3e4b4, 98b8f9c4befb]. This is supported by the 10-year real interest rate being low relative to history (32nd percentile), which increases liquidity and reduces volatility in risk assets [99ad6cdde172]. While the VIX remains in an 'elevated' regime, its recent 3-month and 6-month trends are falling, aligning with the bullish signals from the yield curve and real rates."
+}

@@ -1,0 +1,21 @@
+{
+  "regime": "Conflicting signals: Expansionary yield curve vs. restrictive real rates",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflict",
+  "key_drivers": [
+    "Upward sloping yield curve indicating expansion expectations",
+    "High historical real interest rates reducing liquidity",
+    "Falling VIX despite high real rates"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8",
+    "3da3b2dc47c4"
+  ],
+  "reasoning": "The indicators provide conflicting signals. The US Treasury yield curve is upward sloping (0.52 pp) and rising, which signifies market expectations of future economic expansion [57205ed3e4b4] and is generally bullish [98b8f9c4befb]. However, the 10y real interest rate is high relative to history (82nd percentile), which is associated with decreased liquidity, increased volatility [a17543ceb763], and contractionary GDP/lower equity valuations [57731d675323, a1a5b29af0a8, 3da3b2dc47c4]. While the VIX is currently falling, the underlying structural pressure from high real rates creates a bearish counter-weight to the bullish yield curve signal, resulting in a neutral outlook."
+}

@@ -1,0 +1,19 @@
+{
+  "regime": "Conflicting signals: Expansionary fundamentals vs. High market stress",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflict",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Historically low real interest rates",
+    "High and rising equity market volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "239bc87b8f03"
+  ],
+  "reasoning": "There is a strong conflict between fundamental indicators and market sentiment. The US Treasury yield curve is normal/upward sloping, which signifies expectations of future economic expansion [57205ed3e4b4]. Simultaneously, the 10y real interest rate is at the 1st percentile (very low relative to history), which typically increases liquidity, reduces volatility in risk assets, and supports expansionary GDP [99ad6cdde172, 2328dabf508c, 239bc87b8f03]. However, the VIX is currently in a high-stress regime (91st percentile) and rising, which contradicts the expected volatility suppression usually associated with low real rates. Because the fundamental drivers are bullish but the current volatility state is highly bearish, the overall outlook is neutral."
+}

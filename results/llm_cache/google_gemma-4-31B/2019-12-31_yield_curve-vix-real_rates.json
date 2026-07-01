@@ -1,0 +1,21 @@
+{
+  "regime": "Low real rates with a flattening/rising yield curve and low volatility",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "agree",
+  "key_drivers": [
+    "Low 10y real interest rates",
+    "Low VIX (calm regime)",
+    "Rising yield curve spread"
+  ],
+  "cited_rule_ids": [
+    "99ad6cdde172",
+    "5e068f4bde46",
+    "239bc87b8f03",
+    "2328dabf508c",
+    "0826c79434b2",
+    "98b8f9c4befb"
+  ],
+  "reasoning": "The 10y real interest rate is low relative to history (15th percentile) and near zero (0.15%), which according to rules [99ad6cdde172], [5e068f4bde46], [239bc87b8f03], and [2328dabf508c] is bullish for equities via increased liquidity, higher PE multiples, and expansionary GDP. This is corroborated by the VIX being in a 'low (calm)' regime, which aligns with rule [0826c79434b2] stating that very low real rates are associated with suppressed volatility. Additionally, while the yield curve is currently 'flat', the recent trend is 'rising' (steepening), which rule [98b8f9c4befb] associates with expectations of economic expansion and a bullish direction."
+}

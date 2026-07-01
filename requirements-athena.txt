@@ -1,0 +1,8 @@
+python-dotenv>=1.0
+pydantic>=2.0
+openai>=1.40
+scikit-learn>=1.4
+lancedb>=0.13
+sentence-transformers>=3.0
+pandas>=2.0
+numpy>=1.26

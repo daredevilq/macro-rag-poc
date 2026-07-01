@@ -1,0 +1,20 @@
+{
+  "regime": "Transition toward contraction",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "bearish",
+  "confidence": "medium",
+  "signal_agreement": "Strong agreement",
+  "key_drivers": [
+    "Flattening yield curve",
+    "Rising 10-year real interest rates",
+    "Rising short-term equity volatility"
+  ],
+  "cited_rule_ids": [
+    "aad10797e50f",
+    "e0d011fb7082",
+    "57731d675323",
+    "a1a5b29af0a8",
+    "1f895bc8e557"
+  ],
+  "reasoning": "The macro signals are jointly bearish. The US Treasury yield curve is in a 'flat' regime with a falling trend (3m -0.14 pp, 12m -0.6 pp), which indicates a transition from expansion to contraction [aad10797e50f] and reflects expectations of economic contraction [e0d011fb7082]. Simultaneously, the 10-year real interest rate is rising (6m +0.3 pp), which is associated with decreased borrowing, lower liquidity, and contractionary GDP [57731d675323, a1a5b29af0a8]. This rise in real rates is further corroborated by the VIX index, which shows a rising 1-month trend, aligning with the rule that expensive real money increases equity market volatility [1f895bc8e557]."
+}

@@ -1,0 +1,19 @@
+{
+  "regime": "Transitionary / Mixed",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflict",
+  "key_drivers": [
+    "Flattening yield curve",
+    "Rising real interest rates",
+    "Low equity market volatility"
+  ],
+  "cited_rule_ids": [
+    "aad10797e50f",
+    "e0d011fb7082",
+    "57731d675323",
+    "a1a5b29af0a8"
+  ],
+  "reasoning": "The macro signals are conflicting. The US Treasury yield curve is in a 'flat' regime with a falling trend (0.24 pp), which according to rules [aad10797e50f] and [e0d011fb7082] indicates a transition from expansion to contraction or expectations of economic contraction, both of which are bearish. This is reinforced by the US 10-year real interest rate, which is rising (+0.42 pp over 12m); rules [57731d675323] and [a1a5b29af0a8] state that higher real rates lead to lower liquidity and contractionary GDP, which is bearish. However, these signals conflict with the VIX index, which is currently in a 'low (calm)' regime (12.1) and falling, suggesting current market stability. Because the yield curve and real rates are leading indicators of contraction, the overall outlook for equities is bearish despite the current low volatility."
+}

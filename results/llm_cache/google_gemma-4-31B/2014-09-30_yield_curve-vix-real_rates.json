@@ -1,0 +1,21 @@
+{
+  "regime": "Expansionary with emerging headwinds",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Low historical real interest rates",
+    "Falling yield curve trend",
+    "Rising real interest rates and VIX"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "e0d011fb7082",
+    "99ad6cdde172",
+    "57731d675323",
+    "1f895bc8e557"
+  ],
+  "reasoning": "The macro picture is mixed. On one hand, the yield curve is currently upward sloping (normal), which signifies expectations of economic expansion [57205ed3e4b4], and the 10y real rate is low relative to history (24th percentile), which typically increases liquidity and reduces volatility in risk assets [99ad6cdde172]. However, there are conflicting short-term trends: the yield curve is falling (flattening), which is associated with expectations of economic contraction [e0d011fb7082]. Simultaneously, real interest rates are rising (3m +0.28 pp), which leads to decreased borrowing and liquidity [57731d675323], and this rise in real money costs correlates with the observed increase in equity market volatility (VIX rising 1m +4.3) [1f895bc8e557]."
+}

@@ -1,0 +1,22 @@
+{
+  "regime": "Contractionary / High Volatility",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "High real interest rates (86th percentile)",
+    "Elevated and rising equity volatility (VIX 25.2)",
+    "Falling yield curve trend despite normal regime"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "e0d011fb7082",
+    "aad10797e50f",
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8",
+    "1f895bc8e557"
+  ],
+  "reasoning": "The macro signals are conflicting. On one hand, the US Treasury yield curve is currently upward sloping (normal), which signifies expectations of economic expansion [57205ed3e4b4]. However, the recent trend of the yield curve is falling (flattening), which is associated with expectations of economic contraction [e0d011fb7082] or a transition from expansion to contraction [aad10797e50f]. This bearish outlook is strongly reinforced by the US 10-year real interest rate, which is high relative to history (86th percentile) and rising; this condition leads to decreased borrowing, lower liquidity, and contractionary GDP [57731d675323, a1a5b29af0a8]. Furthermore, these high real rates are directly linked to the current elevated and rising VIX (86th percentile), as high real rates decrease liquidity and increase equity market volatility [a17543ceb763, 1f895bc8e557]. The confluence of high real rates and rising volatility outweighs the current normal state of the yield curve, leading to a bearish equity outlook."
+}

@@ -1,0 +1,21 @@
+{
+  "regime": "Contradictory / Transitionary",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "bullish",
+  "confidence": "medium",
+  "signal_agreement": "conflict",
+  "key_drivers": [
+    "Inverted US Treasury yield curve",
+    "High 10-year real interest rates",
+    "Low VIX index"
+  ],
+  "cited_rule_ids": [
+    "458bf2d7a197",
+    "92d1d2667cdd",
+    "dbd441041c45",
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8"
+  ],
+  "reasoning": "The macro outlook is characterized by a conflict between fundamental warnings and current market sentiment. The US Treasury yield curve is inverted (-0.35 pp), which serves as a high-confidence warning for economic slowdown, GDP contraction, and equity contraction [458bf2d7a197, 92d1d2667cdd], typically prompting investors to sell equities and buy long-term bonds [dbd441041c45]. This bearish outlook is reinforced by the 10-year real interest rate, which is high relative to history (78th percentile), a condition that decreases liquidity, increases volatility, and leads to contractionary GDP [a17543ceb763, 57731d675323, a1a5b29af0a8]. However, these signals conflict with the current state of the VIX, which is in a 'low (calm)' regime (12.4), suggesting a lack of immediate market volatility despite the underlying bearish fundamental drivers."
+}

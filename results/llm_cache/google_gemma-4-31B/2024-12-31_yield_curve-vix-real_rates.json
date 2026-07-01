@@ -1,0 +1,21 @@
+{
+  "regime": "Contractionary / High Real Rate Environment",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "High 10y real interest rates (92nd percentile)",
+    "Rising US equity market volatility (VIX)",
+    "Steepening yield curve (rising 10y-2y spread)"
+  ],
+  "cited_rule_ids": [
+    "57731d675323",
+    "a17543ceb763",
+    "a1a5b29af0a8",
+    "3da3b2dc47c4",
+    "861233955cc6",
+    "98b8f9c4befb"
+  ],
+  "reasoning": "The macro outlook is dominated by high real interest rates (2.24%, 92nd percentile), which according to rules [57731d675323], [a1a5b29af0a8], and [3da3b2dc47c4], lead to decreased borrowing, lower liquidity, and contractionary GDP, creating a bearish outlook for equities. This is supported by the VIX trend (rising), as high real rates correlate with higher equity volatility [861233955cc6] and decreased liquidity [a17543ceb763]. However, there is a conflicting signal from the yield curve: the 10y-2y spread is rising (steepening), which is associated with expectations of economic expansion [98b8f9c4befb]. Because the real rate indicators are at extreme historical percentiles and directly linked to liquidity and valuation contraction, they weigh more heavily than the current yield curve trend."
+}

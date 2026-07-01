@@ -1,0 +1,19 @@
+{
+  "regime": "Transition toward contraction",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Flattening yield curve",
+    "Negative real interest rates",
+    "Elevated equity volatility"
+  ],
+  "cited_rule_ids": [
+    "aad10797e50f",
+    "e0d011fb7082",
+    "0826c79434b2",
+    "5e068f4bde46"
+  ],
+  "reasoning": "The yield curve is currently flat (0.04 pp) and trending downward, which according to rules [aad10797e50f] and [e0d011fb7082] indicates a transition from expansion to contraction and expectations of economic contraction, providing a bearish signal. This is contrasted by the 10y real interest rate, which is negative (-0.52%), a state associated with higher PE valuation multiples [5e068f4bde46] and suppressed volatility [0826c79434b2]. However, the VIX remains in an 'elevated' regime (79th percentile), suggesting that the suppressive effect of negative real rates is not currently dominating market sentiment. The confluence of a flattening curve and elevated volatility outweighs the valuation support from negative real rates, leading to a bearish equity outlook."
+}

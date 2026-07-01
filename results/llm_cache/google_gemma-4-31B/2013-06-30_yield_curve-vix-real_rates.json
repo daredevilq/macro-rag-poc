@@ -1,0 +1,20 @@
+{
+  "regime": "Economic Expansion / Low Real Rate Environment",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Low historical real interest rates",
+    "Rising real rates and VIX"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "99ad6cdde172",
+    "5e068f4bde46",
+    "1f895bc8e557"
+  ],
+  "reasoning": "The yield curve is upward sloping (normal) and steepening, which signifies market expectations of future economic expansion [57205ed3e4b4, 98b8f9c4befb]. Simultaneously, the 10y real interest rate is low relative to history (19th percentile), which increases liquidity, reduces volatility in risk assets, and supports higher PE valuation multiples for equities [99ad6cdde172, 5e068f4bde46]. However, there is a conflicting short-term trend: real rates are rising, and the VIX has trended upward over the last month, which according to rule [1f895bc8e557], can increase volatility and reduce liquidity. Despite this short-term friction, the primary structural indicators (normal yield curve and historically low real rates) provide a bullish outlook for equities."
+}

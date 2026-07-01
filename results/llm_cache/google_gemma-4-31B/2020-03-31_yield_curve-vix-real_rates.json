@@ -1,0 +1,21 @@
+{
+  "regime": "High Volatility / Low Real Rate Environment",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Negative 10y real interest rates",
+    "Extreme VIX elevation (99th percentile)",
+    "Rising/Flat yield curve"
+  ],
+  "cited_rule_ids": [
+    "2328dabf508c",
+    "5e068f4bde46",
+    "99ad6cdde172",
+    "0826c79434b2",
+    "98b8f9c4befb",
+    "e0d011fb7082"
+  ],
+  "reasoning": "The indicators provide conflicting signals. The US 10-year real interest rate is negative (-0.17%) and falling, which is bullish for equities as it typically leads to increased borrowing, higher liquidity, and higher PE valuation multiples [2328dabf508c, 5e068f4bde46, 99ad6cdde172]. Furthermore, the yield curve is rising (recent trend) and flat, which aligns with expectations of economic expansion [98b8f9c4befb]. However, these bullish signals are sharply contradicted by the VIX, which is at an extreme high (53.5, 99th percentile), indicating severe market stress. This creates a conflict because negative real rates are typically associated with suppressed volatility [0826c79434b2], yet volatility is currently peaking. While the real rates and yield curve trend suggest a recovery/expansionary setup, the current state of volatility indicates immediate high risk."
+}

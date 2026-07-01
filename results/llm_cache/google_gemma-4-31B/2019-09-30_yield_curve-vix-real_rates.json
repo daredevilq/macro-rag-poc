@@ -1,0 +1,20 @@
+{
+  "regime": "Transitionary / Low Real Rate Environment",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "bearish",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Flattening yield curve",
+    "Low and falling 10y real interest rates",
+    "Normal equity volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "aad10797e50f",
+    "e0d011fb7082",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "5e068f4bde46"
+  ],
+  "reasoning": "The indicators provide conflicting signals. The US Treasury yield curve is flat (0.05 pp) and trending downward, which according to rules [aad10797e50f] and [e0d011fb7082] is bearish as it indicates expectations of economic contraction or a transition from expansion to contraction. Conversely, the 10y real interest rate is very low (0.15%, 15th percentile) and falling; per rules [99ad6cdde172], [2328dabf508c], and [5e068f4bde46], this is bullish for equities as it increases liquidity, supports GDP expansion, and allows for higher PE valuation multiples. The VIX is in a 'normal' regime and falling, which is consistent with the liquidity provided by low real rates. Because the bearish signal from the yield curve (macro contraction) conflicts with the bullish signal from real rates (liquidity/valuation), the equity outlook is neutral."
+}

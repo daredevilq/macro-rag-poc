@@ -1,0 +1,22 @@
+{
+  "regime": "Expansionary/Low-Rate Environment",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Very low real interest rates",
+    "Falling real rates trend",
+    "Rising short-term VIX"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "5e068f4bde46",
+    "0826c79434b2",
+    "e0d011fb7082"
+  ],
+  "reasoning": "The macro outlook is primarily bullish for equities driven by the confluence of a normal (upward sloping) yield curve, which signifies expectations of economic expansion [57205ed3e4b4], and very low real interest rates (13th percentile), which increase liquidity, reduce volatility [99ad6cdde172], and support higher PE valuation multiples [5e068f4bde46]. Lower real rates are also linked to expansionary GDP [2328dabf508c]. However, there is a conflicting signal: the yield curve is currently flattening (falling trend over 3m, 6m, and 12m), which can indicate expectations of economic contraction [e0d011fb7082]. Additionally, while the VIX is in a normal regime, its 1-month trend is rising, though this is partially offset by the suppressed volatility typically associated with very low real rates [0826c79434b2]."
+}

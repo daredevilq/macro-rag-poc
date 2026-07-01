@@ -1,0 +1,19 @@
+{
+  "regime": "Expansionary / Low-Rate Environment",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "high",
+  "signal_agreement": "strong agreement",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Negative real interest rates",
+    "Suppressed volatility"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "2328dabf508c",
+    "5e068f4bde46",
+    "0826c79434b2"
+  ],
+  "reasoning": "The macro signals are strongly aligned. The US Treasury yield curve is upward sloping (1.53 pp), which signifies market expectations of future economic expansion [57205ed3e4b4]. Simultaneously, the 10y real interest rate is negative (-0.67%), which is associated with increased borrowing, higher liquidity, and expansionary GDP [2328dabf508c], as well as higher PE valuation multiples for equity indices [5e068f4bde46]. This negative real rate environment also supports suppressed volatility (VIX) [0826c79434b2], which is consistent with the VIX being in a 'normal' regime at the 48th percentile. The confluence of an expansionary yield curve and highly accommodative real rates creates a strongly bullish outlook for equities."
+}

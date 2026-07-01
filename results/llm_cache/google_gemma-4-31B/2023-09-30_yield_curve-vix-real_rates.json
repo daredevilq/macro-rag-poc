@@ -1,0 +1,24 @@
+{
+  "regime": "Contractionary / High Real Rate Environment",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "bullish",
+  "confidence": "high",
+  "signal_agreement": "strong agreement",
+  "key_drivers": [
+    "Inverted US Treasury yield curve",
+    "High US 10-year real interest rates",
+    "Rising equity market volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "458bf2d7a197",
+    "92d1d2667cdd",
+    "dbd441041c45",
+    "57731d675323",
+    "a17543ceb763",
+    "a1a5b29af0a8",
+    "3da3b2dc47c4",
+    "861233955cc6",
+    "1f895bc8e557"
+  ],
+  "reasoning": "The macro signals are in strong confluence. The US Treasury yield curve is inverted (-0.44 pp), which serves as a warning for economic slowdown, GDP contraction, and equity contraction [458bf2d7a197, 92d1d2667cdd], typically prompting investors to sell equities and buy long-term bonds [dbd441041c45]. Simultaneously, the 10y real interest rate is high relative to history (92nd percentile) and rising, which leads to decreased borrowing, lower liquidity, and contractionary GDP [57731d675323, a1a5b29af0a8], as well as lower equity valuations and earnings [3da3b2dc47c4]. This high real rate environment is further validated by the VIX, as higher real rates correlate with increased equity market volatility and reduced liquidity [a17543ceb763, 861233955cc6, 1f895bc8e557]."
+}

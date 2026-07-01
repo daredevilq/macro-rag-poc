@@ -1,0 +1,21 @@
+{
+  "regime": "Conflicting signals: Low real rates and normal yield curve vs. extreme equity volatility",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "neutral",
+  "confidence": "low",
+  "signal_agreement": "conflict",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Falling/Low 10y real interest rates",
+    "High VIX (96th percentile)"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "e0d011fb7082",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "5e068f4bde46",
+    "0826c79434b2"
+  ],
+  "reasoning": "The indicators provide conflicting signals. The US Treasury yield curve is upward sloping (normal), which signifies expectations of economic expansion [57205ed3e4b4], although its recent falling trend suggests a flattening process associated with expectations of contraction [e0d011fb7082]. Simultaneously, the 10y real interest rate is very low (2nd percentile) and falling, which is bullish as it increases liquidity [99ad6cdde172], supports GDP expansion [2328dabf508c], and supports higher equity PE multiples [5e068f4bde46]. However, these bullish signals are sharply contradicted by the VIX, which is in a high-stress regime (43.0, 96th percentile). This is paradoxical because very low real rates are typically associated with suppressed volatility [0826c79434b2]. The extreme volatility outweighs the structural bullishness of the rates and curve in the immediate term, leading to a neutral outlook due to the high level of signal conflict."
+}

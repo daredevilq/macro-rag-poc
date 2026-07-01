@@ -1,0 +1,18 @@
+{
+  "regime": "Mixed/Transitionary",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "High equity market volatility (VIX)",
+    "Falling real interest rates"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "2328dabf508c",
+    "239bc87b8f03"
+  ],
+  "reasoning": "The indicators provide conflicting signals. The US Treasury yield curve is upward sloping (normal), which signifies market expectations of future economic expansion [57205ed3e4b4]. Simultaneously, the 10y real interest rate is on a falling trend, which is associated with increased borrowing, higher liquidity, and expansionary GDP [2328dabf508c, 239bc87b8f03]. However, these bullish signals conflict with the current state of the VIX, which is in a 'high (stress)' regime at the 97th percentile, indicating significant current market instability. Because the long-term structural indicators (yield curve and real rate trends) are bullish while the short-term sentiment indicator (VIX) is highly stressed, the overall outlook is neutral."
+}

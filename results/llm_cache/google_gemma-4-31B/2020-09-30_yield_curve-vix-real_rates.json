@@ -1,0 +1,20 @@
+{
+  "regime": "Expansionary / High Volatility",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Negative real interest rates",
+    "Elevated VIX index"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "2328dabf508c",
+    "5e068f4bde46",
+    "99ad6cdde172",
+    "0826c79434b2"
+  ],
+  "reasoning": "The outlook is primarily bullish for equities due to the confluence of a normal (upward sloping) yield curve, which signifies expectations of future economic expansion [57205ed3e4b4], and negative real interest rates (-0.94%), which are associated with higher PE valuation multiples [5e068f4bde46], increased liquidity, and expansionary GDP [2328dabf508c, 99ad6cdde172]. However, there is a significant conflict in the volatility signal: while negative real rates are typically associated with suppressed volatility [0826c79434b2], the VIX is currently elevated (26.4) and in the 91st percentile, indicating a disconnect between the fundamental liquidity environment and current market sentiment."
+}

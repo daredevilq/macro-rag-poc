@@ -1,0 +1,20 @@
+{
+  "regime": "Transitionary / High Real Rates",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "High real interest rates relative to history",
+    "Rising yield curve (steepening)",
+    "Rising equity market volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8",
+    "98b8f9c4befb",
+    "e0d011fb7082"
+  ],
+  "reasoning": "The macro outlook is conflicting. On one hand, the US 10-year real interest rate is in a 'high relative to history' regime (73rd percentile), which according to rules [a17543ceb763], [57731d675323], and [a1a5b29af0a8], decreases liquidity and is associated with contractionary GDP and bearish equity conditions. This is supported by the VIX trend, which is rising. On the other hand, the US Treasury yield curve is currently 'flat' but has a 'rising' recent trend (steepening), which rule [98b8f9c4befb] associates with expectations of economic expansion and a bullish direction. However, the current 'flat' state of the curve can also be interpreted as a signal of expected contraction per rule [e0d011fb7082]. The bearish pressure from high real rates and rising volatility currently outweighs the bullish signal of the steepening trend."
+}

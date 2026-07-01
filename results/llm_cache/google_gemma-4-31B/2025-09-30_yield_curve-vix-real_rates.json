@@ -1,0 +1,19 @@
+{
+  "regime": "Mixed: Normal yield curve with high real rates",
+  "equities_outlook": "neutral",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "High 10y real interest rates",
+    "Normal VIX levels"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8"
+  ],
+  "reasoning": "The indicators provide conflicting signals. The US Treasury yield curve is upward sloping (0.56 pp), which signifies market expectations of future economic expansion [57205ed3e4b4]. However, the 10-year real interest rate is high relative to history (78th percentile), which is associated with decreased liquidity, increased volatility [a17543ceb763], and contractionary GDP/deflationary conditions [57731d675323, a1a5b29af0a8]. While the VIX is currently in a normal regime, the high real rates act as a bearish headwind that offsets the bullish signal from the yield curve's slope."
+}

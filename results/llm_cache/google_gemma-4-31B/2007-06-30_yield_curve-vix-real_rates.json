@@ -1,0 +1,21 @@
+{
+  "regime": "Contractionary / High Real Rates",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "neutral",
+  "confidence": "high",
+  "signal_agreement": "Strong agreement between real interest rates and volatility; mixed/neutral signal from the yield curve.",
+  "key_drivers": [
+    "High 10y real interest rates (98th percentile)",
+    "Rising equity market volatility (VIX)",
+    "Flat yield curve"
+  ],
+  "cited_rule_ids": [
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8",
+    "3da3b2dc47c4",
+    "aad10797e50f",
+    "e0d011fb7082"
+  ],
+  "reasoning": "The US 10-year real interest rate is in a 'high relative to history' regime (98th percentile) and rising. According to rules [a17543ceb763], [57731d675323], and [a1a5b29af0a8], high real rates decrease liquidity, reduce borrowing, and lead to contractionary GDP. Rule [3da3b2dc47c4] explicitly links this 'expensive money' to lower equity valuations and earnings, creating a bearish outlook for equities. This is supported by the VIX, which is currently rising. Regarding the yield curve, the current 'flat' regime is associated with a transition from expansion to contraction [aad10797e50f] or expectations of economic contraction [e0d011fb7082], further reinforcing the bearish macro sentiment."
+}

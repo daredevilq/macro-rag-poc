@@ -1,0 +1,23 @@
+{
+  "regime": "Contractionary / High Stress",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "bullish",
+  "confidence": "high",
+  "signal_agreement": "strong agreement",
+  "key_drivers": [
+    "Inverted US Treasury yield curve",
+    "High and rising 10-year real interest rates",
+    "Elevated equity market volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "458bf2d7a197",
+    "92d1d2667cdd",
+    "dbd441041c45",
+    "57731d675323",
+    "a17543ceb763",
+    "a1a5b29af0a8",
+    "3da3b2dc47c4",
+    "861233955cc6"
+  ],
+  "reasoning": "The indicators show a strong confluence of bearish signals. The inverted yield curve (-0.39 pp) serves as a high-confidence warning for economic slowdown, GDP contraction, and equity contraction [458bf2d7a197, 92d1d2667cdd], while specifically suggesting a shift where investors sell equities to buy long-term bonds [dbd441041c45]. This is reinforced by the 10y real interest rate, which is high relative to history (73rd percentile) and rising; according to expert rules, expensive real money leads to decreased borrowing, lower liquidity, and contractionary GDP [57731d675323, a1a5b29af0a8], as well as lower equity valuations and earnings [3da3b2dc47c4]. Finally, the high VIX (31.6, 96th percentile) aligns with the rules stating that high real interest rates decrease liquidity and increase equity market volatility [a17543ceb763, 861233955cc6]."
+}

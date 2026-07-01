@@ -1,0 +1,20 @@
+{
+  "regime": "Economic Expansion / High Liquidity",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "high",
+  "signal_agreement": "strong agreement",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Low real interest rates",
+    "Normal volatility"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "5e068f4bde46"
+  ],
+  "reasoning": "The US Treasury yield curve is upward sloping (normal) and rising, which signifies market expectations of future economic expansion [57205ed3e4b4] and indicates expectations of economic expansion [98b8f9c4befb]. Simultaneously, the 10-year real interest rate is low relative to history (19th percentile), which increases liquidity and reduces volatility in risk assets [99ad6cdde172], leads to expansionary GDP [2328dabf508c], and allows equity indices to command higher PE valuation multiples [5e068f4bde46]. The VIX is in a normal regime and broadly flat, consistent with the low-volatility environment created by low real rates. All three indicators align to support a bullish outlook for equities."
+}

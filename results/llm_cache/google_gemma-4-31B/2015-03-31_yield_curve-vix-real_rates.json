@@ -1,0 +1,23 @@
+{
+  "regime": "Expansionary with flattening yield curve",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Low real interest rates",
+    "Falling real rates increasing liquidity",
+    "Flattening yield curve trend"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "aad10797e50f",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "239bc87b8f03",
+    "5e068f4bde46",
+    "0826c79434b2"
+  ],
+  "reasoning": "The current state presents a conflict between static levels and trends. The yield curve is currently upward sloping, which signifies expectations of economic expansion [57205ed3e4b4]. Simultaneously, the 10y real interest rate is low relative to history (15th percentile) and falling, which is bullish for equities as it increases liquidity, encourages borrowing, and supports higher PE valuation multiples [99ad6cdde172, 2328dabf508c, 239bc87b8f03, 5e068f4bde46]. Low real rates also correlate with suppressed volatility [0826c79434b2]. However, a bearish signal is emerging from the yield curve's trend: it is flattening (falling 0.91 pp over 12m), which occurs during transitions from expansion to contraction [aad10797e50f]. Because the current regime remains 'normal' (upward sloping) and real rates are strongly supportive, the immediate outlook for equities remains bullish, though the flattening trend introduces medium-term risk."
+}

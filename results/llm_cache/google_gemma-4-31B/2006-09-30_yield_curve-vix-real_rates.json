@@ -1,0 +1,21 @@
+{
+  "regime": "Contradictory / Transitionary",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "bullish",
+  "confidence": "medium",
+  "signal_agreement": "conflict",
+  "key_drivers": [
+    "Inverted US Treasury yield curve",
+    "High 10-year real interest rates",
+    "Low VIX (market calm)"
+  ],
+  "cited_rule_ids": [
+    "458bf2d7a197",
+    "92d1d2667cdd",
+    "dbd441041c45",
+    "a17543ceb763",
+    "57731d675323",
+    "a1a5b29af0a8"
+  ],
+  "reasoning": "There is a strong conflict between fundamental leading indicators and current market sentiment. The yield curve is inverted (-0.07 pp), which is a high-confidence bearish signal for economic slowdown, GDP contraction, and equity contraction [458bf2d7a197, 92d1d2667cdd]. This typically prompts investors to sell equities and buy long-term bonds [dbd441041c45]. Simultaneously, the 10y real interest rate is high (84th percentile), which is associated with decreased liquidity, contractionary GDP, and increased volatility [a17543ceb763, 57731d675323, a1a5b29af0a8]. However, the VIX is currently very low (12.0, 6th percentile), indicating a state of calm that contradicts the bearish signals from the yield curve and real rates. Given the high confidence assigned to yield curve inversion and high real rates as leading indicators of contraction, the outlook is bearish for equities and bullish for bonds, despite the current low volatility."
+}

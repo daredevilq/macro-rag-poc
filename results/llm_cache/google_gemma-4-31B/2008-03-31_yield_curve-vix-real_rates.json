@@ -1,0 +1,20 @@
+{
+  "regime": "Transitionary / Mixed",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Falling and historically low 10y real interest rates",
+    "Elevated equity market volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "239bc87b8f03"
+  ],
+  "reasoning": "The yield curve is currently normal (upward sloping) and rising, which signifies market expectations of future economic expansion [57205ed3e4b4] and bullish sentiment [98b8f9c4befb]. Simultaneously, the 10y real interest rate is at the 1st percentile (low relative to history) and falling, which is bullish as it increases liquidity, reduces volatility in risk assets, and supports expansionary GDP [99ad6cdde172, 2328dabf508c, 239bc87b8f03]. However, these bullish signals conflict with the current state of the VIX, which remains elevated (77th percentile), suggesting lingering market stress despite the supportive macro environment."
+}

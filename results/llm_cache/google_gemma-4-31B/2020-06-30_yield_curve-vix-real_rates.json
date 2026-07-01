@@ -1,0 +1,19 @@
+{
+  "regime": "Expansionary but Volatile",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "conflicting",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Negative 10y real interest rates",
+    "High VIX index"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "2328dabf508c",
+    "5e068f4bde46",
+    "0826c79434b2"
+  ],
+  "reasoning": "The macro signals are conflicting. Bullish indicators include the US Treasury yield curve being upward sloping (normal), which signifies expectations of future economic expansion [57205ed3e4b4]. Additionally, the 10y real interest rate is negative (-0.68%), which is associated with increased borrowing, higher liquidity, and expansionary GDP [2328dabf508c], as well as higher PE valuation multiples for equity indices [5e068f4bde46]. However, these bullish signals conflict with the current state of the VIX, which is high (30.4) and in a stress regime. This is contradictory to rule [0826c79434b2], which states that negative real interest rates are typically associated with suppressed volatility. Despite the current volatility, the underlying fundamental drivers (real rates and yield curve) point toward an expansionary outlook."
+}

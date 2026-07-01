@@ -1,0 +1,19 @@
+{
+  "regime": "Expansionary / Recovery",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "Partial agreement; yield curve and real rates are strongly bullish, while VIX remains elevated (conflicting with the low real rate expectation of suppressed volatility).",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Low historical real interest rates",
+    "Elevated equity volatility"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "239bc87b8f03"
+  ],
+  "reasoning": "The US Treasury yield curve is normal (upward sloping) at the 94th percentile, which signifies market expectations of future economic expansion [57205ed3e4b4]. This is supported by the US 10-year real interest rate being low relative to history (10th percentile), which increases liquidity and reduces volatility in risk assets [99ad6cdde172], and leads to increased borrowing and expansionary GDP [2328dabf508c, 239bc87b8f03]. While the VIX is currently in an 'elevated' regime (74th percentile), which typically conflicts with the effects of low real rates, the primary structural indicators (yield curve and real rates) provide a strong bullish signal for equities."
+}

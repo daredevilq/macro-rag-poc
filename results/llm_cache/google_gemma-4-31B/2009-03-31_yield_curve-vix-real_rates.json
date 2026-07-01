@@ -1,0 +1,21 @@
+{
+  "regime": "Transition from contraction to expansion with high residual volatility",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "Mixed but leaning bullish; yield curve and real rates signal expansion, while VIX remains in a high-stress regime despite a recent falling trend.",
+  "key_drivers": [
+    "Upward sloping yield curve (1.9 pp)",
+    "Low historical real interest rates (6th percentile)",
+    "Rising yield curve trend",
+    "Falling VIX trend"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "239bc87b8f03"
+  ],
+  "reasoning": "The US Treasury yield curve is upward sloping (normal) and rising, which signifies market expectations of future economic expansion [57205ed3e4b4] and indicates that expectations of expansion are causing the curve to steepen [98b8f9c4befb]. Simultaneously, the 10y real interest rate is low relative to history (6th percentile), which increases liquidity and reduces volatility in risk assets [99ad6cdde172], and leads to increased borrowing and expansionary GDP [2328dabf508c, 239bc87b8f03]. While the VIX remains in a 'high stress' regime (44.1), its recent 1-month trend is falling, aligning with the bullish signals from the yield curve and real rates."
+}

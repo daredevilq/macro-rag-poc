@@ -1,0 +1,21 @@
+{
+  "regime": "Expansionary / Low Volatility",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "high",
+  "signal_agreement": "strong agreement",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Negative real interest rates",
+    "Low equity market volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "5e068f4bde46",
+    "2328dabf508c",
+    "99ad6cdde172",
+    "0826c79434b2"
+  ],
+  "reasoning": "The indicators provide a confluent bullish signal for equities. The US Treasury yield curve is upward sloping (1.62 pp) and rising, which signifies market expectations of future economic expansion [57205ed3e4b4] and reflects expectations of economic expansion [98b8f9c4befb]. Simultaneously, the 10y real interest rate is negative (-0.64%) and in the 4th percentile of history; according to expert rules, real rates near or below zero lead to higher PE valuation multiples for equity indices [5e068f4bde46], increased borrowing, liquidity, and expansionary GDP [2328dabf508c], and reduced volatility in risk assets [99ad6cdde172]. This is confirmed by the VIX, which is in a 'low (calm)' regime (12.7), consistent with the rule that negative real interest rates are associated with suppressed volatility [0826c79434b2]."
+}

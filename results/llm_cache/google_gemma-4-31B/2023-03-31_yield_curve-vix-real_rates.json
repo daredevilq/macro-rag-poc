@@ -1,0 +1,20 @@
+{
+  "regime": "Mixed/Transitionary",
+  "equities_outlook": "bearish",
+  "bonds_outlook": "bullish",
+  "confidence": "medium",
+  "signal_agreement": "conflict",
+  "key_drivers": [
+    "Inverted US Treasury yield curve",
+    "Falling 10-year real interest rates",
+    "Falling VIX index"
+  ],
+  "cited_rule_ids": [
+    "458bf2d7a197",
+    "92d1d2667cdd",
+    "dbd441041c45",
+    "2328dabf508c",
+    "239bc87b8f03"
+  ],
+  "reasoning": "There is a conflict between the yield curve and real interest rate trends. The US Treasury yield curve is inverted (-0.58 pp), which is a high-confidence bearish signal for equities, warning of economic slowdown, GDP contraction, and earnings contraction [458bf2d7a197, 92d1d2667cdd], and typically prompts investors to sell equities to buy long-term bonds [dbd441041c45]. Conversely, the 10-year real interest rate is falling (3m -0.42 pp), which is a bullish signal as cheaper real money leads to increased borrowing, higher liquidity, and expansionary GDP [2328dabf508c, 239bc87b8f03]. While the VIX is falling, the structural warning of the inverted yield curve outweighs the short-term liquidity signal for the equity outlook, while the shift toward long-term bonds is supported by both the inversion and the falling real rates."
+}

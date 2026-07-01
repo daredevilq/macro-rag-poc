@@ -1,0 +1,21 @@
+{
+  "regime": "Expansionary / Low-Rate Environment",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Negative 10-year real interest rates",
+    "Elevated VIX index"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "2328dabf508c",
+    "239bc87b8f03",
+    "5e068f4bde46",
+    "0826c79434b2"
+  ],
+  "reasoning": "The yield curve is upward sloping (normal) and rising, which signifies market expectations of future economic expansion [57205ed3e4b4] and bullish expectations [98b8f9c4befb]. Simultaneously, the 10-year real interest rate is negative (-1.06%), which is bullish for equities as it leads to increased borrowing, higher liquidity, and expansionary GDP [2328dabf508c, 239bc87b8f03], while also supporting higher PE valuation multiples [5e068f4bde46]. There is a conflict regarding volatility: while negative real rates are typically associated with suppressed volatility [0826c79434b2], the current VIX is elevated (22.8) and rising, suggesting a disconnect between the fundamental low-rate environment and current market sentiment."
+}

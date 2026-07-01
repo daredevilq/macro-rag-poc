@@ -1,0 +1,20 @@
+{
+  "regime": "Expansionary with rising volatility",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Low historical real interest rates",
+    "Rising VIX and real rates"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "98b8f9c4befb",
+    "99ad6cdde172",
+    "5e068f4bde46",
+    "1f895bc8e557"
+  ],
+  "reasoning": "The yield curve is upward sloping (1.71 pp), which signifies market expectations of future economic expansion [57205ed3e4b4] and is a bullish signal [98b8f9c4befb]. Additionally, the 10y real interest rate is low relative to history (25th percentile), which increases liquidity and reduces volatility in risk assets [99ad6cdde172], and supports higher PE valuation multiples for equity indices [5e068f4bde46]. However, there is a conflicting short-term signal: both the VIX and real interest rates are trending upward. According to rule [1f895bc8e557], increasing real interest rates (expensive real money) can increase equity market volatility and reduce liquidity, which aligns with the observed rising VIX trend. Despite this short-term volatility, the structural indicators (yield curve and low absolute real rates) remain bullish."
+}

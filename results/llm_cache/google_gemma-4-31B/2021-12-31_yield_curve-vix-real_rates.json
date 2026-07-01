@@ -1,0 +1,21 @@
+{
+  "regime": "Expansionary / Low-Rate Environment",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "high",
+  "signal_agreement": "mixed",
+  "key_drivers": [
+    "Negative 10y real interest rates",
+    "Upward sloping yield curve",
+    "Falling VIX"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "aad10797e50f",
+    "2328dabf508c",
+    "5e068f4bde46",
+    "99ad6cdde172",
+    "0826c79434b2"
+  ],
+  "reasoning": "The macro outlook is primarily bullish for equities due to the confluence of very low real interest rates (-1.04%) and a normal, upward-sloping yield curve. According to rule 57205ed3e4b4, the upward sloping curve signifies expectations of economic expansion. The negative real rates are a strong bullish driver, as they lead to increased borrowing and liquidity (2328dabf508c), support higher PE valuation multiples (5e068f4bde46), and reduce volatility in risk assets (99ad6cdde172). This is further supported by the VIX being suppressed, which aligns with the state of negative real rates (0826c79434b2). However, there is a conflicting signal: the yield curve is currently flattening (falling trend over 3m and 6m), which rule aad10797e50f associates with a transition from expansion to contraction, introducing a bearish nuance to the otherwise bullish liquidity-driven environment."
+}

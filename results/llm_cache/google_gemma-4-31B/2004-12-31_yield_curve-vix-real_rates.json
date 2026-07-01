@@ -1,0 +1,20 @@
+{
+  "regime": "Expansionary / Low Volatility",
+  "equities_outlook": "bullish",
+  "bonds_outlook": "neutral",
+  "confidence": "medium",
+  "signal_agreement": "Mixed but leaning bullish; the current state of the yield curve and real rates is bullish, though the yield curve's recent trend is bearish.",
+  "key_drivers": [
+    "Upward sloping yield curve",
+    "Low real interest rates relative to history",
+    "Low equity market volatility (VIX)"
+  ],
+  "cited_rule_ids": [
+    "57205ed3e4b4",
+    "aad10797e50f",
+    "99ad6cdde172",
+    "2328dabf508c",
+    "239bc87b8f03"
+  ],
+  "reasoning": "The current state of the US Treasury yield curve is upward sloping (normal), which signifies market expectations of future economic expansion [57205ed3e4b4]. This is supported by the US 10-year real interest rate being low relative to history (14th percentile), which increases liquidity and promotes expansionary GDP [99ad6cdde172, 2328dabf508c, 239bc87b8f03]. These factors correlate with the observed low VIX (10th percentile). However, there is a conflicting signal in the trend: the yield curve has been falling (flattening) over the last 12 months, which is characteristic of a transition from expansion to contraction [aad10797e50f]. Despite the bearish trend, the absolute levels of the indicators currently support a bullish outlook for equities."
+}
